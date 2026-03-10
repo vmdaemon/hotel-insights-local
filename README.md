@@ -30,3 +30,7 @@ It lets you import booking CSV files, store data locally, and explore operationa
 `~/Library/Application Support/com.madhav.hotelinsights/hotelinsights/analytics.duckdb`
 ## Run instructions
 See `RUN.md`.
+
+## Demo
+
+See `DEMO.md` for a step-by-step demo walkthrough (GUI + optional CLI) including example outputs.
